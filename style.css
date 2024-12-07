@@ -1,0 +1,59 @@
+
+
+a {
+    color: black;
+    size: 5;
+}
+
+a:hover {
+    color: whitesmoke;
+}
+
+h3 {
+    color: aliceblue;
+}
+
+.about {
+    color: aliceblue;
+}
+
+img {
+    width: 200px;
+}
+
+table {
+
+    border:0;
+    padding: 15;
+    border-spacing: 0;
+    width: 90%;
+    /* margin-inline-start: 10%; */
+    /* background-color:#4CAF50; */
+    /* margin-inline-end: 0; */
+}
+
+.space {
+    width: 15%;
+}
+
+#head {
+
+    border:0; 
+    width:100%;
+    padding:0; 
+    border-spacing:"0";
+    background-color:#4CAF50;
+    /* margin-inline-start: 5%;
+    margin-inline-end: 5%; */
+}
+
+#home,#about {
+    border:0; 
+    width:100%;
+    padding: 20; 
+    border-spacing:"0";
+    background-color:black;
+    /* margin-inline-start: 5%;
+    margin-inline-end: 5%; */
+    height: 100px;
+}
