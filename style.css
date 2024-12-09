@@ -57,3 +57,11 @@ table {
     margin-inline-end: 5%; */
     height: 100px;
 }
+
+#projects {
+    border: 0;
+    width: 100%;
+    padding: 0;
+    border-spacing: 0;
+    background-color: #c2c0c3;
+}
