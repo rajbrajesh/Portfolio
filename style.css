@@ -36,6 +36,21 @@ table {
     width: 15%;
 }
 
+.footer{
+    height: 200px;
+    background-color: #4CAF50;
+    display: flex;
+    position: relative;
+}
+
+.footer div{
+    margin: 20px;
+    width: 30%;
+}
+
+.footer .first-section{
+    text-decoration: solid;
+}
 #head {
 
     border:0; 
